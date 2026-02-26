@@ -1,0 +1,22 @@
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor artifacts
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build outputs (if any PDF generation is added)
+build/
+dist/
+*.pdf
+*.docx
+
+# Temporary files
+*.tmp
+*.bak
+*.log
